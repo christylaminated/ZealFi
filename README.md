@@ -38,12 +38,13 @@
   - Stake, verify, and share progress
 
 ---
-## 🎥 Demo Video
+## 🎥 Demo Video (CLICK IMAGE BELOW)
 
 [![Watch the demo](https://img.youtube.com/vi/qT3aCh5ahPZGSfjyD4uc/0.jpg)](https://app.screencastify.com/v3/watch/qT3aCh5ahPZGSfjyD4uc)
 
-👉 Click the image above to watch the full demo.
+CLICK IMAGE ABOVE TO WATCH DEMO VIDEO
 <img width="494" alt="Screenshot 2025-05-16 at 1 46 04 PM" src="https://github.com/user-attachments/assets/5f770b22-bd0c-4fe7-9c29-9bccc4e1d6fc" />
 <img width="1426" alt="Screenshot 2025-05-16 at 1 46 23 PM" src="https://github.com/user-attachments/assets/f41c0d0c-06f1-43a9-a20e-99b51b320960" />
 
+ZealFi uses Aptos for on-chain logic and smart contracts, where users connect with Petra Wallet to stake funds into goal pods and trigger rewards via Move-based contracts. Stellar is used for fast, low-cost USDC payments; when a user sends funds on Stellar, the backend verifies the transaction with stellar-sdk and mints equivalent value on Aptos, bridging the two chains.
 
