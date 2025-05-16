@@ -1,6 +1,6 @@
 "use client"
 
-import { Home, BarChart2, User, Users } from "lucide-react"
+import { Home, BarChart2, User, Users, Wallet, CreditCard } from "lucide-react"
 import Link from "next/link"
 import { cn } from "@/lib/utils"
 import { motion } from "framer-motion"
@@ -20,6 +20,16 @@ export function Navigation({ currentPath = "/" }: NavigationProps) {
       icon: Users,
       label: "Goal Pods",
       href: "/goal-pods",
+    },
+    {
+      icon: Wallet,
+      label: "Wallets",
+      href: "/wallets",
+    },
+    {
+      icon: CreditCard,
+      label: "Pay",
+      href: "/payment-demo",
     },
     {
       icon: BarChart2,
