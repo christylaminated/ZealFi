@@ -38,3 +38,9 @@
   - Stake, verify, and share progress
 
 ---
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/qT3aCh5ahPZGSfjyD4uc/0.jpg)](https://app.screencastify.com/v3/watch/qT3aCh5ahPZGSfjyD4uc)
+
+👉 Click the image above to watch the full demo.
+
